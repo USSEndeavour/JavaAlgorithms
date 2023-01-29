@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-// 3. Вывести на консоль те числа, длина которых меньше средней длины по всем числам, а также длину.
+// 3. print those numbers whose length is less than the average length over all numbers, print their length.
 
 class Main3 {
     
