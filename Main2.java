@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-// 2. Вывести числа в порядке возрастания значений их длины.
+// 2. Print the numbers in ascending order of their length.
 
 class Main2 {
     static String[] arr;
