@@ -1,2 +1,2 @@
-# JavaAlgorythms
+# JavaAlgorithms
 Algorithmic problems
