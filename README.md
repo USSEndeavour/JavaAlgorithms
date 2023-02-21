@@ -24,3 +24,21 @@ java Main3 <<enter your numbers here>>
 javac Main4.java
 java Main4 <<enter your numbers here>>
 ```
+
+### Task 5: Find the amount of numbers containing only even digits, and among the remaining ones, find the amount of numbers with an equal number of even and odd digits. Find the first one if there are several.
+```bash
+javac Main5.java
+java Main5 <<enter your numbers here>>
+```
+
+### Task 6: Find a number whose digits are ordered in ascending manner. If there are several such numbers, find the first one.
+```bash
+javac Main6.java
+java Main6 <<enter your numbers here>>
+```
+
+### Task 7: Find a number consisting of only different digits. If there are several such numbers, find the first one.
+```bash
+javac Main7.java
+java Main7 <<enter your numbers here>>
+```
