@@ -13,7 +13,7 @@ class Main2 {
 
         arr = array; // input array
         arr1 = new String[arr.length]; // array for the output
-        arr2 = new String[arr.length][]; // create a matrice: each next row contains all but the shortest value of the previous line
+        arr2 = new String[arr.length][]; // create a matrix: each next row contains all but the shortest value of the previous line
         arr2[0] = array; // array to start with
 
         for (int i=0; i<arr2.length; i++) { // iterate over each row
