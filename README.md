@@ -1,5 +1,5 @@
 # JavaAlgorithms
-## Algorithmic problems: enter some numbers from the console.
+## Algorithmic problems: enter some numbers to the console.
 
 ### Task 1: find the shortest and longest number. Print these numbers and their length.
 ````bash
